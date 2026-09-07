@@ -1,4 +1,5 @@
 import { renderings } from '../../data/renderings.js'
+import './RenderingGallery.css'
 
 function RenderingGallery() {
   return (
